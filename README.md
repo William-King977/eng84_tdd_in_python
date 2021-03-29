@@ -10,7 +10,6 @@
 ### Best Practices
  * Write the smallest possible test case that matches what 
    we need to program
-   
  * Following the TDD cycle:
    * TDD cycle starts with everything failing 
    * Write the code to pass the test     
@@ -109,6 +108,12 @@ Ran 4 tests in 0.004s
 
 OK
 ```
+
+### Summary
+ * TDD helps reduce unexpected errors
+ * Test cases are created before the code
+ * Helps create better code that's more fault-tolerant
+ 
 
 
 
