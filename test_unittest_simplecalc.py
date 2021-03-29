@@ -1,4 +1,5 @@
 # Unit tests to check if the code runs without any errors
+# pytest uses any file with the name including test*.py
 
 # importing the file and class where we would write our code.
 from simple_calc import SimpleCalc
